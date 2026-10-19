@@ -1,0 +1,784 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plain English Law//Victorian law commencements//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:When Victorian (and key federal) law changes take effect, in 
+ plain English. Compiled by Joel Cardwell, Melbourne law graduate. General 
+ information only, not legal advice. Dates can change: check the official s
+ ource before relying on this.
+NAME:Plain English Law – Victorian law commencements
+X-WR-CALNAME:Plain English Law – Victorian law commencements
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+SUMMARY:Public sector bargaining changes (Fair Work referral) (by this dat
+ e)
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261019T000000Z
+UID:fw-cth-powers-amendment-2026@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Changes to Victoria's referral of industrial powers to the Com
+ monwealth start\, letting certain Victorian public sector employees bargai
+ n about staff numbers and appointments\, with related changes for police.
+ \n\nDate type: No later than (could start earlier by proclamation)\nJurisd
+ iction: Victoria\nWho it affects: Victorian public sector employees\, incl
+ uding Victoria Police\n\nOfficial source: https://www.legislation.vic.gov.
+ au/bills/fair-work-commonwealth-powers-amendment-bill-2026\nCommencement s
+ ource: https://www.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S512.pdf
+ \n\nLast checked: 2026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/fair-work-commonwealth-powers
+ -amendment-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animal abuse material offences\, coroners and toll-road fines chan
+ ges (by this date)
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261019T000000Z
+UID:jlfam-misc-2026-remaining@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:The rest of the Justice Legislation Further Amendment (Miscell
+ aneous) Act 2026 starts\, including new offences about animal abuse materi
+ al\, a wider bestiality offence\, a power to re-open finalised coroner inv
+ estigations and changes to toll-road fine procedures.\n\nDate type: No lat
+ er than (could start earlier by proclamation)\nJurisdiction: Victoria\nWho
+  it affects: General public\; coroners and courts\; toll-road users\n\nOff
+ icial source: https://www.legislation.vic.gov.au/bills/justice-legislation
+ -further-amendment-miscellaneous-bill-2025\nCommencement source: https://w
+ ww.legislation.vic.gov.au/sites/default/files/2026-08/Commencement-informa
+ tion-for-Acts-enacted-this-year.pdf\nNote: No earlier proclamation found i
+ n the Government Gazette up to 19 Oct 2026.\n\nLast checked: 2026-10-19\nG
+ eneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/justice-legislation-further-a
+ mendment-miscellaneous-bill-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAC benefits for children change
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261019T000000Z
+UID:wlaac-2026-tac-children@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Changes to Transport Accident Act benefits for children start
+ \, under the Workplace Legislation Amendment (Accident Compensation and Ot
+ her Matters) Act 2026.\n\nDate type: Fixed date\nJurisdiction: Victoria\nW
+ ho it affects: Children injured in transport accidents\, and their familie
+ s\n\nOfficial source: https://www.legislation.vic.gov.au/bills/workplace-l
+ egislation-amendment-accident-compensation-and-other-matters-bill-2026\nCo
+ mmencement source: https://www.gazette.vic.gov.au/gazette/Gazettes2026/GG2
+ 026S559.pdf\n\nLast checked: 2026-10-19\nGeneral information only\, not le
+ gal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/workplace-legislation-amendme
+ nt-accident-compensation-and-other-matters-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family violence intervention order changes (by this date)
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261019T000000Z
+UID:fv-stalking-2026-nov@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Courts must consider whether someone has been misidentified as
+  the main aggressor\, intervention orders can no longer be made against ch
+ ildren under 12\, and final orders against adults default to 24 months unl
+ ess the court sets another period.\n\nDate type: No later than (could star
+ t earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: People
+  involved in family violence intervention order cases\; courts\; police\n
+ \nOfficial source: https://judicialcollege.vic.edu.au/resources/justice-le
+ gislation-amendment-family-violence-stalking-and-other-matters-act-2026-gu
+ ide\nCommencement source: https://www.legislation.vic.gov.au/sites/default
+ /files/2026-08/Commencement-information-for-Acts-enacted-this-year.pdf\nNo
+ te: Judicial College of Victoria guide gives 10 Nov 2026. Support: 1800RES
+ PECT 1800 737 732\; emergencies 000.\n\nLast checked: 2026-10-19\nGeneral 
+ information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://judicialcollege.vic.edu.au/resources/justice-legislation-amend
+ ment-family-violence-stalking-and-other-matters-act-2026-guide
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real estate agents' representatives must be registered
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261019T000000Z
+UID:agents-reps-registration-2026@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Agents' representatives must hold a registration with the Busi
+ ness Licensing Authority (existing ones on the register on 24 November are
+  registered automatically)\, and new fees apply for estate agents and owne
+ rs corporation management businesses.\n\nDate type: Fixed date\nJurisdicti
+ on: Victoria\nWho it affects: Estate agents\, agents' representatives\, ow
+ ners corporation managers\n\nOfficial source: https://www.consumer.vic.gov
+ .au/licensing-and-registration/estate-agents/new-rules-estate-agents-and-a
+ gents-representatives\nCommencement source: https://www.legislation.vic.go
+ v.au/sites/default/files/2026-08/Commencement-Information-for-statutory-ru
+ les-made-this-year.pdf\nNote: OC fee change per CAV OC page: https://www.c
+ onsumer.vic.gov.au/licensing-and-registration/owners-corporation-managers/
+ new-education-rules-owners-corporation-managers\n\nLast checked: 2026-10-1
+ 9\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/licensing-and-registration/estate-agen
+ ts/new-rules-estate-agents-and-agents-representatives
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minor domestic building contract changes (by this date)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261019T000000Z
+UID:cla2026-dbc-minor@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:General amendments to the Domestic Building Contracts Act 1995
+  start\, including the building work it covers and the warning a contract 
+ must contain if the price is likely to vary.\n\nDate type: No later than (
+ could start earlier by proclamation)\nJurisdiction: Victoria\nWho it affec
+ ts: Home owners and builders\n\nOfficial source: https://www.legislation.v
+ ic.gov.au/bills/consumer-legislation-amendment-bill-2026\nCommencement sou
+ rce: https://www.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S497.pdf\nN
+ ote: Separate from the main 2025 building contract reforms (see 31 Mar 202
+ 7).\n\nLast checked: 2026-10-19\nGeneral information only\, not legal advi
+ ce.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/consumer-legislation-amendmen
+ t-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:'Permission to teach' becomes 'conditional authority to teach'
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261019T000000Z
+UID:teaching-conditional-authority-2026@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:The scheme that lets some people teach before full registratio
+ n is renamed and updated as 'conditional authority to teach' under the Edu
+ cation and Training Reform Act 2006.\n\nDate type: Fixed date\nJurisdictio
+ n: Victoria\nWho it affects: Teachers and teaching candidates\; schools\; 
+ the Victorian Institute of Teaching\n\nOfficial source: https://www.legisl
+ ation.vic.gov.au/bills/education-and-training-reform-amendment-apprentices
+ hips-traineeships-schools-and-other-matters-bill\nCommencement source: htt
+ ps://www.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S512.pdf\n\nLast ch
+ ecked: 2026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-apprenticeships-traineeships-schools-and-other-matters-bill
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Privacy policies must explain automated decisions
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261019T000000Z
+UID:cth-privacy-automated-decisions@plainenglishlaw.vic-commencements
+CATEGORIES:Commonwealth,Fixed date
+DESCRIPTION:Organisations covered by the Privacy Act must say in their pri
+ vacy policy when computer programs use personal information to make\, or s
+ ubstantially help make\, decisions that could significantly affect people.
+ \n\nDate type: Fixed date\nJurisdiction: Commonwealth\nWho it affects: Bus
+ inesses and agencies covered by the Privacy Act\; consumers\n\nOfficial so
+ urce: https://www.legislation.gov.au/C2024A00128/asmade/text\nCommencement
+  source: https://www.oaic.gov.au/privacy/australian-privacy-principles/aus
+ tralian-privacy-principles-guidelines/chapter-1-app-1-open-and-transparent
+ -management-of-personal-information\n\nLast checked: 2026-10-19\nGeneral i
+ nformation only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.gov.au/C2024A00128/asmade/text
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Production notices to banks for criminal investigations (by this d
+ ate)
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261019T000000Z
+UID:crimes-production-notices@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:A new process starts for requiring banks and other financial i
+ nstitutions to produce documents relevant to certain offences\, under the 
+ Crimes Act 1958.\n\nDate type: No later than (could start earlier by procl
+ amation)\nJurisdiction: Victoria\nWho it affects: Banks\, building societi
+ es and credit unions\; police\n\nOfficial source: https://www.legislation.
+ vic.gov.au/bills/crimes-amendment-recruitment-children-criminal-activity-b
+ ill-2026\nCommencement source: https://www.gazette.vic.gov.au/gazette/Gaze
+ ttes2026/GG2026S482.pdf\nNote: The new child-recruitment offence in the sa
+ me Act is already in force (2 Sep 2026).\n\nLast checked: 2026-10-19\nGene
+ ral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/crimes-amendment-recruitment-
+ children-criminal-activity-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Land tax main residence exemption changes
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261019T000000Z
+UID:land-tax-ppr-2027@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Changes to the land tax principal place of residence exemption
+ \, including the Commissioner's power to extend exemption periods\, take e
+ ffect.\n\nDate type: Fixed date\nJurisdiction: Victoria\nWho it affects: H
+ ome owners and land tax payers\n\nOfficial source: https://www.legislation
+ .vic.gov.au/bills/building-legislation-and-treasury-legislation-tax-relief
+ -amendment-bill-2026\nCommencement source: https://www.legislation.vic.gov
+ .au/sites/default/files/2026-08/Commencement-information-for-Acts-enacted-
+ this-year.pdf\n\nLast checked: 2026-10-19\nGeneral information only\, not 
+ legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/building-legislation-and-trea
+ sury-legislation-tax-relief-amendment-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAFE Funding Guarantee starts
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261019T000000Z
+UID:tafe-funding-guarantee@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:The TAFE Funding Guarantee in the Education and Training Refor
+ m Act 2006 starts.\n\nDate type: Fixed date\nJurisdiction: Victoria\nWho i
+ t affects: TAFE institutes and students\n\nOfficial source: https://www.le
+ gislation.vic.gov.au/bills/education-and-training-reform-amendment-free-ta
+ fe-guarantee-bill-2026\nCommencement source: https://www.legislation.vic.g
+ ov.au/sites/default/files/2026-08/Commencement-information-for-Acts-enacte
+ d-this-year.pdf\n\nLast checked: 2026-10-19\nGeneral information only\, no
+ t legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-free-tafe-guarantee-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schools need a student phone and device policy
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+DTSTAMP:20261019T000000Z
+UID:school-phone-policy@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Having a policy restricting student use of personal electronic
+  devices during school hours becomes a school registration requirement. Sc
+ hools already registered are treated as complying until 1 July 2027.\n\nDa
+ te type: Fixed date\nJurisdiction: Victoria\nWho it affects: Schools\, stu
+ dents and parents\n\nOfficial source: https://www.legislation.vic.gov.au/b
+ ills/education-and-training-reform-amendment-bill-2026\nCommencement sourc
+ e: https://www.legislation.vic.gov.au/sites/default/files/2026-08/Commence
+ ment-information-for-Acts-enacted-this-year.pdf\n\nLast checked: 2026-10-1
+ 9\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rental energy efficiency standards: first phase (phased)
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+DTSTAMP:20261019T000000Z
+UID:rental-mees-phase1@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Phased start
+DESCRIPTION:New minimum energy efficiency standards for rentals start. Bro
+ ken heaters and hot water systems must be replaced with efficient electric
+  ones\; cooling\, 4-star showerheads and ceiling insulation apply at a new
+  lease or a switch to month-to-month.\n\nDate type: Phased start\nJurisdic
+ tion: Victoria\nWho it affects: Renters and rental providers\n\nOfficial s
+ ource: https://www.consumer.vic.gov.au/resources-and-tools/legislation/pub
+ lic-consultations-and-reviews/new-minimum-energy-efficiency-standards\nCom
+ mencement source: https://www.consumer.vic.gov.au/housing/renting/new-chan
+ ges-to-the-rental-laws\nNote: Phased: draughtproofing from 1 Jul 2027\; co
+ oling in all rentals from 1 Jul 2030. Exemptions apply.\n\nLast checked: 2
+ 026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/resources-and-tools/legislation/public
+ -consultations-and-reviews/new-minimum-energy-efficiency-standards
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supervision agreements for conditional teachers
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+DTSTAMP:20261019T000000Z
+UID:teaching-supervision-agreements@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Conditional authority to teach can only be granted if a superv
+ ision and support agreement is in place with the person in charge of the w
+ orkplace\, such as the school principal.\n\nDate type: Fixed date\nJurisdi
+ ction: Victoria\nWho it affects: Teaching candidates\, schools and trainin
+ g providers\n\nOfficial source: https://www.legislation.vic.gov.au/bills/e
+ ducation-and-training-reform-amendment-apprenticeships-traineeships-school
+ s-and-other-matters-bill\nCommencement source: https://www.gazette.vic.gov
+ .au/gazette/Gazettes2026/GG2026S512.pdf\n\nLast checked: 2026-10-19\nGener
+ al information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-apprenticeships-traineeships-schools-and-other-matters-bill
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AML/CTF independent evaluation deadline (existing businesses) (dea
+ dline)
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+DTSTAMP:20261019T000000Z
+UID:cth-austrac-independent-evaluation@plainenglishlaw.vic-commencements
+CATEGORIES:Commonwealth,Compliance deadline
+DESCRIPTION:Businesses already regulated by AUSTRAC that have had an indep
+ endent review must complete their first independent evaluation under the r
+ eformed rules by 31 March 2027\, or 4 years after their last review if tha
+ t is later.\n\nDate type: Compliance deadline\nJurisdiction: Commonwealth
+ \nWho it affects: Existing AUSTRAC reporting entities (e.g. banks\, remitt
+ ers\, gambling businesses)\n\nOfficial source: https://www.austrac.gov.au/
+ about-us/legislation/updates-legislation/amlctf-transitional-rules-2026\nN
+ ote: A compliance deadline\, not a new law starting.\n\nLast checked: 2026
+ -10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.austrac.gov.au/about-us/legislation/updates-legislation/am
+ lctf-transitional-rules-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New domestic building contract laws (by this date)
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+DTSTAMP:20261019T000000Z
+UID:domestic-building-contracts-2025@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:The main Domestic Building Contracts Amendment Act 2025 reform
+ s start\, including clearer contract rules\, limits on when builders get p
+ aid\, one process for variations and stronger rights to end major contract
+ s.\n\nDate type: No later than (could start earlier by proclamation)\nJuri
+ sdiction: Victoria\nWho it affects: Home owners\, builders and renovators
+ \n\nOfficial source: https://www.consumer.vic.gov.au/latest-news/new-domes
+ tic-building-contract-laws-passed-in-victoria\nCommencement source: https:
+ //www.legislation.vic.gov.au/bills/consumer-legislation-amendment-bill-202
+ 6\nNote: The CAV article still says 'by 1 December 2026' (outdated). Could
+  start earlier by proclamation.\n\nLast checked: 2026-10-19\nGeneral infor
+ mation only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/latest-news/new-domestic-building-cont
+ ract-laws-passed-in-victoria
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fishing\, Hunting and Outdoor Victoria replaces two authorities (b
+ y this date)
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+DTSTAMP:20261019T000000Z
+UID:fishing-hunting-outdoor-victoria@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:A new body\, Fishing\, Hunting and Outdoor Victoria\, is set u
+ p with a Land and Aquatic Access Panel\, replacing the Game Management Aut
+ hority and the Victorian Fisheries Authority.\n\nDate type: No later than 
+ (could start earlier by proclamation)\nJurisdiction: Victoria\nWho it affe
+ cts: Recreational fishers\, hunters and outdoor users\; commercial fishing
+  and aquaculture\n\nOfficial source: https://www.legislation.vic.gov.au/bi
+ lls/outdoor-recreation-victoria-bill-2026\nCommencement source: https://ww
+ w.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S466.pdf\nNote: Bill was i
+ ntroduced as the Outdoor Recreation Victoria Bill 2026.\n\nLast checked: 2
+ 026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/outdoor-recreation-victoria-b
+ ill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual training (CPD) for agents and conveyancers
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+DTSTAMP:20261019T000000Z
+UID:property-cpd-2027@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Estate agents\, agents' representatives and conveyancers must 
+ complete at least 5 continuing professional development activities each ye
+ ar (1 April to 31 March).\n\nDate type: Fixed date\nJurisdiction: Victoria
+ \nWho it affects: Estate agents\, agents' representatives\, conveyancers\n
+ \nOfficial source: https://www.consumer.vic.gov.au/licensing-and-registrat
+ ion/cpd-for-property-professionals/continuing-professional-development-for
+ -property-professionals\nCommencement source: https://www.legislation.vic.
+ gov.au/sites/default/files/2026-08/Commencement-Information-for-statutory-
+ rules-made-this-year.pdf\nNote: Owners corporation managers start CPD on 1
+  Apr 2028.\n\nLast checked: 2026-10-19\nGeneral information only\, not leg
+ al advice.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/licensing-and-registration/cpd-for-pro
+ perty-professionals/continuing-professional-development-for-property-profe
+ ssionals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voluntary assisted dying law changes (by this date)
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+DTSTAMP:20261019T000000Z
+UID:vad-amendment-2025@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Changes to the Voluntary Assisted Dying Act 2017 start\, inclu
+ ding letting doctors and nurse practitioners raise it during end-of-life c
+ are discussions\, a 12-month timeframe in the eligibility criteria and a s
+ horter minimum gap between requests.\n\nDate type: No later than (could st
+ art earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: Peop
+ le with terminal illness\, their families\, health practitioners\n\nOffici
+ al source: https://www.legislation.vic.gov.au/bills/voluntary-assisted-dyi
+ ng-amendment-bill-2025\nCommencement source: https://www.legislation.vic.g
+ ov.au/sites/default/files/2026-08/Commencement-information-for-Acts-enacte
+ d-from-1958-to-last-year.pdf\n\nLast checked: 2026-10-19\nGeneral informat
+ ion only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/voluntary-assisted-dying-amen
+ dment-bill-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renting: lease-break cap\, spare keys and more (by this date)
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20261019T000000Z
+UID:renting-jun-2027@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:A cap on what renters can be ordered to pay for ending a fixed
+ -term lease early\, rental providers can't unreasonably refuse a request f
+ or a spare key or fob\, an offence to refuse a renter who pays bond direct
+ ly to the RTBA\, and a ban on refusing to rent to someone because of famil
+ y or personal violence.\n\nDate type: No later than (could start earlier b
+ y proclamation)\nJurisdiction: Victoria\nWho it affects: Renters\, rental 
+ providers and agents\n\nOfficial source: https://www.consumer.vic.gov.au/h
+ ousing/renting/new-changes-to-the-rental-laws\nCommencement source: https:
+ //www.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S497.pdf\nNote: CAV li
+ sts these as 1 June 2027. The cap applies to fixed terms of 5 years or les
+ s.\n\nLast checked: 2026-10-19\nGeneral information only\, not legal advic
+ e.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-ren
+ tal-laws
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Changes to section 32 vendor statements (by this date)
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20261019T000000Z
+UID:sale-of-land-s32@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Changes to when section 32 vendor statements must be made avai
+ lable to buyers\, and a new requirement for sellers to tell buyers in writ
+ ing about changes to the statement.\n\nDate type: No later than (could sta
+ rt earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: Prope
+ rty buyers and sellers\; agents and conveyancers\n\nOfficial source: https
+ ://www.legislation.vic.gov.au/bills/consumer-legislation-amendment-bill-20
+ 26\nCommencement source: https://www.gazette.vic.gov.au/gazette/Gazettes20
+ 26/GG2026S497.pdf\nNote: Deposit-release changes in the same Division have
+  a later backstop (1 Jul 2027).\n\nLast checked: 2026-10-19\nGeneral infor
+ mation only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/consumer-legislation-amendmen
+ t-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IVF clinics must meet an accreditation scheme (by this date)
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+DTSTAMP:20261019T000000Z
+UID:art-provider-accreditation@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Registered assisted reproductive treatment providers must comp
+ ly with an approved accreditation scheme\, with changes to registration an
+ d inspection powers\, among other health regulation changes.\n\nDate type:
+  No later than (could start earlier by proclamation)\nJurisdiction: Victor
+ ia\nWho it affects: IVF and assisted reproductive treatment providers and 
+ patients\n\nOfficial source: https://www.legislation.vic.gov.au/bills/heal
+ th-legislation-amendment-regulatory-reform-bill-2026\nCommencement source:
+  https://www.legislation.vic.gov.au/sites/default/files/2026-08/Commenceme
+ nt-information-for-Acts-enacted-this-year.pdf\nNote: Section 9 started 30 
+ Sep 2026 (Gazette S510). Section 5 has a 1 Jan 2029 backstop.\n\nLast chec
+ ked: 2026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/health-legislation-amendment-
+ regulatory-reform-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Owners corporation managers: training and registration due (deadli
+ ne)
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DTSTAMP:20261019T000000Z
+UID:oc-managers-training-registration@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Compliance deadline
+DESCRIPTION:Individual owners corporation managers and officers in effecti
+ ve control must complete initial training (5 core units) and register by t
+ his date. Already-registered businesses have until 1 August 2027 to regist
+ er officers.\n\nDate type: Compliance deadline\nJurisdiction: Victoria\nWh
+ o it affects: Owners corporation managers\; apartment and unit owners\n\nO
+ fficial source: https://www.consumer.vic.gov.au/licensing-and-registration
+ /owners-corporation-managers/new-education-rules-owners-corporation-manage
+ rs\nCommencement source: https://www.legislation.vic.gov.au/sites/default/
+ files/2026-08/Commencement-information-for-Acts-enacted-from-1958-to-last-
+ year.pdf\n\nLast checked: 2026-10-19\nGeneral information only\, not legal
+  advice.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/licensing-and-registration/owners-corp
+ oration-managers/new-education-rules-owners-corporation-managers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Council integrity rules and Fair Jobs Code (by this date)
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20261019T000000Z
+UID:local-gov-stronger-communities@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:The rest of the Local Government Legislation Amendment (Strong
+ er Communities) Act 2026 starts\, including council governance and integri
+ ty changes\, a Fair Jobs Code and regulator\, and removing group voting ti
+ ckets from City of Melbourne elections.\n\nDate type: No later than (could
+  start earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: C
+ ouncils\, councillors\, council suppliers and voters\n\nOfficial source: h
+ ttps://www.legislation.vic.gov.au/bills/local-government-legislation-amend
+ ment-stronger-communities-bill-2026\nCommencement source: https://www.gaze
+ tte.vic.gov.au/gazette/Gazettes2026/GG2026S547.pdf\n\nLast checked: 2026-1
+ 0-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/local-government-legislation-
+ amendment-stronger-communities-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Higher nurse and midwife ratios at reclassified hospitals
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20261019T000000Z
+UID:nurse-ratios-2027@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Reclassified public hospitals with general medical and surgica
+ l wards must meet the staffing ratios for their new category. Emergency de
+ partment changes follow on 1 July 2028.\n\nDate type: Fixed date\nJurisdic
+ tion: Victoria\nWho it affects: Public hospital patients\, nurses and midw
+ ives\n\nOfficial source: https://www.health.vic.gov.au/nursing-and-midwife
+ ry/nursing-and-midwifery-legislation-and-regulation\nCommencement source: 
+ https://www.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S482.pdf\nNote: 
+ Some obligations are deferred to 1 Jul 2029 for certain hospitals.\n\nLast
+  checked: 2026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.health.vic.gov.au/nursing-and-midwifery/nursing-and-midwif
+ ery-legislation-and-regulation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rental energy standards: draughtproofing (phased)
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20261019T000000Z
+UID:rental-mees-draughtproofing@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Phased start
+DESCRIPTION:Rental providers must draughtproof external doors\, windows an
+ d unsealed wall vents at the start of a new lease or a switch to month-to-
+ month\, after a gas safety check where there is gas.\n\nDate type: Phased 
+ start\nJurisdiction: Victoria\nWho it affects: Renters and rental provider
+ s\n\nOfficial source: https://www.consumer.vic.gov.au/resources-and-tools/
+ legislation/public-consultations-and-reviews/new-minimum-energy-efficiency
+ -standards\nNote: Second phase of the standards.\n\nLast checked: 2026-10-
+ 19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.consumer.vic.gov.au/resources-and-tools/legislation/public
+ -consultations-and-reviews/new-minimum-energy-efficiency-standards
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New rules on releasing deposits before settlement (by this date)
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20261019T000000Z
+UID:sale-of-land-deposits@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Changes to when a deposit paid under a contract for the sale o
+ f land can be released before settlement start.\n\nDate type: No later tha
+ n (could start earlier by proclamation)\nJurisdiction: Victoria\nWho it af
+ fects: Property buyers and sellers\; agents and conveyancers\n\nOfficial s
+ ource: https://www.legislation.vic.gov.au/bills/consumer-legislation-amend
+ ment-bill-2026\nCommencement source: https://www.gazette.vic.gov.au/gazett
+ e/Gazettes2026/GG2026S497.pdf\n\nLast checked: 2026-10-19\nGeneral informa
+ tion only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/consumer-legislation-amendmen
+ t-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Training for return-to-work co-ordinators (by this date)
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20261019T000000Z
+UID:wirc-rtw-coordinators@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Employers must meet new obligations to train the people they a
+ ppoint as return-to-work co-ordinators under the workers' compensation sch
+ eme.\n\nDate type: No later than (could start earlier by proclamation)\nJu
+ risdiction: Victoria\nWho it affects: Employers and injured workers\n\nOff
+ icial source: https://www.legislation.vic.gov.au/bills/workplace-injury-re
+ habilitation-and-compensation-amendment-bill-2025\nCommencement source: ht
+ tps://www.legislation.vic.gov.au/sites/default/files/2026-08/Commencement-
+ information-for-Acts-enacted-from-1958-to-last-year.pdf\n\nLast checked: 2
+ 026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/workplace-injury-rehabilitati
+ on-and-compensation-amendment-bill-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workplace protection orders (by this date)
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+DTSTAMP:20261019T000000Z
+UID:workplace-protection-orders@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Courts will be able to make orders restricting people who enga
+ ge in unacceptable conduct connected to certain workplaces\, under the Wor
+ kplace Protection Orders Act 2026.\n\nDate type: No later than (could star
+ t earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: Worker
+ s and employers at covered workplaces\; the public\n\nOfficial source: htt
+ ps://www.legislation.vic.gov.au/bills/workplace-protection-orders-bill-202
+ 6\nCommencement source: https://www.gazette.vic.gov.au/gazette/Gazettes202
+ 6/GG2026S482.pdf\n\nLast checked: 2026-10-19\nGeneral information only\, n
+ ot legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/workplace-protection-orders-b
+ ill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aboriginal cultural understanding training in education
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20261019T000000Z
+UID:aboriginal-cultural-training@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,Fixed date
+DESCRIPTION:Aboriginal cultural understanding professional development tra
+ ining must be made available to school\, early childhood and education dep
+ artment staff.\n\nDate type: Fixed date\nJurisdiction: Victoria\nWho it af
+ fects: School\, early childhood and adult education staff\n\nOfficial sour
+ ce: https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-bill-2026\nCommencement source: https://www.legislation.vic.gov
+ .au/sites/default/files/2026-08/Commencement-information-for-Acts-enacted-
+ this-year.pdf\n\nLast checked: 2026-10-19\nGeneral information only\, not 
+ legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School community safety orders (by this date)
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20261019T000000Z
+UID:school-community-safety-orders@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:New school community safety orders under the Education and Tra
+ ining Reform Act 2006 start.\n\nDate type: No later than (could start earl
+ ier by proclamation)\nJurisdiction: Victoria\nWho it affects: Schools\, st
+ aff\, students and parents\n\nOfficial source: https://www.legislation.vic
+ .gov.au/bills/education-and-training-reform-amendment-apprenticeships-trai
+ neeships-schools-and-other-matters-bill\nCommencement source: https://www.
+ gazette.vic.gov.au/gazette/Gazettes2026/GG2026S512.pdf\n\nLast checked: 20
+ 26-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/education-and-training-reform
+ -amendment-apprenticeships-traineeships-schools-and-other-matters-bill
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good character in sentencing\, grooming and intervention orders (b
+ y this date)
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+DTSTAMP:20261019T000000Z
+UID:fv-good-character-grooming@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Changes to how previous good character and references are used
+  in sentencing\, grooming becomes prohibited behaviour for personal safety
+  intervention orders\, and changes to extending family violence interventi
+ on orders and information sharing.\n\nDate type: No later than (could star
+ t earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: Courts
+ \, accused people and victim-survivors\; family violence services\n\nOffic
+ ial source: https://www.legislation.vic.gov.au/bills/justice-legislation-a
+ mendment-family-violence-coercive-control-good-character-risk-assessment-a
+ nd\nCommencement source: https://www.gazette.vic.gov.au/gazette/Gazettes20
+ 26/GG2026S530.pdf\nNote: The new coercive control offence in the same Act 
+ starts by 1 Mar 2028 at the latest (outside this calendar). Support: 1800R
+ ESPECT 1800 737 732.\n\nLast checked: 2026-10-19\nGeneral information only
+ \, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/justice-legislation-amendment
+ -family-violence-coercive-control-good-character-risk-assessment-and
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workplace safety: reckless endangerment and coercive conduct (by t
+ his date)
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+DTSTAMP:20261019T000000Z
+UID:wlaac-2026-remaining@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:The rest of the Workplace Legislation Amendment (Accident Comp
+ ensation and Other Matters) Act 2026 starts\, including changes to reckles
+ s endangerment offences\, a ban on coercive conduct and new health and saf
+ ety orders under workplace safety law.\n\nDate type: No later than (could 
+ start earlier by proclamation)\nJurisdiction: Victoria\nWho it affects: Em
+ ployers\, workers\, health and safety representatives\n\nOfficial source: 
+ https://www.legislation.vic.gov.au/bills/workplace-legislation-amendment-a
+ ccident-compensation-and-other-matters-bill-2026\nCommencement source: htt
+ ps://www.gazette.vic.gov.au/gazette/Gazettes2026/GG2026S559.pdf\n\nLast ch
+ ecked: 2026-10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/workplace-legislation-amendme
+ nt-accident-compensation-and-other-matters-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planning system changes (Better Decisions Made Faster) (by this da
+ te)
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+DTSTAMP:20261019T000000Z
+UID:planning-better-decisions@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:The remaining changes to the Planning and Environment Act 1987
+  under the Planning Amendment (Better Decisions Made Faster) Act 2026 star
+ t\, covering planning schemes\, permits\, compliance and infrastructure co
+ ntributions.\n\nDate type: No later than (could start earlier by proclamat
+ ion)\nJurisdiction: Victoria\nWho it affects: Home owners\, developers\, c
+ ouncils\, objectors\n\nOfficial source: https://www.legislation.vic.gov.au
+ /bills/planning-amendment-better-decisions-made-faster-bill-2025\nCommence
+ ment source: https://www.legislation.vic.gov.au/sites/default/files/2026-0
+ 8/Commencement-information-for-Acts-enacted-this-year.pdf\nNote: Several p
+ arts already started in 2026.\n\nLast checked: 2026-10-19\nGeneral informa
+ tion only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/planning-amendment-better-dec
+ isions-made-faster-bill-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building and Plumbing Commission and Building Appeals Tribunal (by
+  this date)
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+DTSTAMP:20261019T000000Z
+UID:building-plumbing-commission@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:The Building and Plumbing Administration and Enforcement Act 2
+ 026 starts\, restating building and plumbing regulation and setting up the
+  Building and Plumbing Commission and the Building Appeals Tribunal.\n\nDa
+ te type: No later than (could start earlier by proclamation)\nJurisdiction
+ : Victoria\nWho it affects: Builders\, plumbers\, building surveyors\, hom
+ e owners\n\nOfficial source: https://www.legislation.vic.gov.au/bills/buil
+ ding-and-plumbing-administration-and-enforcement-bill-2026\nCommencement s
+ ource: https://www.legislation.vic.gov.au/sites/default/files/2026-08/Comm
+ encement-information-for-Acts-enacted-this-year.pdf\n\nLast checked: 2026-
+ 10-19\nGeneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/building-and-plumbing-adminis
+ tration-and-enforcement-bill-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Car traders\, apartments\, prefab building and land lease changes 
+ (by this date)
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+DTSTAMP:20261019T000000Z
+UID:cla2026-dec-2027@plainenglishlaw.vic-commencements
+CATEGORIES:Victoria,No later than
+DESCRIPTION:Remaining Consumer Legislation Amendment Act 2026 changes star
+ t\, including motor car trader reforms\, owners corporation payment plans 
+ and proxy voting\, prefabrication and complex plumbing rules\, property sa
+ le data and Part 4A park rules.\n\nDate type: No later than (could start e
+ arlier by proclamation)\nJurisdiction: Victoria\nWho it affects: Car buyer
+ s and traders\; apartment owners\; builders\; residents of land lease park
+ s\n\nOfficial source: https://www.legislation.vic.gov.au/bills/consumer-le
+ gislation-amendment-bill-2026\nCommencement source: https://www.gazette.vi
+ c.gov.au/gazette/Gazettes2026/GG2026S497.pdf\nNote: ss 178ZF and 178ZJ alr
+ eady started on 16 Sep 2026 (Gazette S510).\n\nLast checked: 2026-10-19\nG
+ eneral information only\, not legal advice.
+TRANSP:TRANSPARENT
+URL:https://www.legislation.vic.gov.au/bills/consumer-legislation-amendmen
+ t-bill-2026
+END:VEVENT
+END:VCALENDAR

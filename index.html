@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plain English Law – Victorian law commencements</title>
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:680px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#1d2433}
+h1{font-size:1.6rem;margin-bottom:.3rem}
+.btns a{display:inline-block;margin:.3rem .4rem .3rem 0;padding:.6rem 1rem;border-radius:8px;background:#1d3557;color:#fff;text-decoration:none}
+code{background:#f1f3f6;padding:.1rem .3rem;border-radius:4px;word-break:break-all}
+.note{font-size:.92rem;color:#4a5568;border-top:1px solid #e2e8f0;margin-top:2rem;padding-top:1rem}
+</style>
+</head>
+<body>
+<h1>Plain English Law – Victorian law commencements</h1>
+<p>A free calendar showing when Victorian law changes (and a few key federal ones) take effect. Each entry has a one-line plain-English summary, who it affects and a link to the official source. Subscribe once and new or changed dates appear automatically.</p>
+<div class="btns">
+<a id="google" href="#">Add to Google Calendar</a>
+<a id="apple" href="#">Add to Apple Calendar</a>
+<a id="outlook" href="#">Add to Outlook</a>
+</div>
+<p>Or subscribe in any calendar app using this URL:<br><code id="url"></code></p>
+<p><a href="vic_law_commencements.csv">Download the full list (CSV)</a></p>
+<p class="note"><strong>General information only, not legal advice.</strong> Dates marked "by this date" can start earlier by proclamation, so check the official source. This calendar is compiled by Joel Cardwell, a law graduate, not a lawyer.</p>
+<script>
+var base=location.href.replace(/[^\/]*$/,'');
+var ics=base+'vic_law_commencements.ics';
+var webcal=ics.replace(/^https?:/,'webcal:');
+document.getElementById('url').textContent=ics;
+document.getElementById('apple').href=webcal;
+document.getElementById('google').href='https://calendar.google.com/calendar/r?cid='+encodeURIComponent(webcal);
+document.getElementById('outlook').href='https://outlook.live.com/calendar/0/addfromweb?url='+encodeURIComponent(ics)+'&name='+encodeURIComponent('Plain English Law – Victorian law commencements');
+</script>
+</body>
+</html>
